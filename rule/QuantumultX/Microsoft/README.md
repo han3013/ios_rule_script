@@ -12,16 +12,16 @@ Microsoft规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-02-15 23:43:29
+最后更新时间：2023-02-17 02:08:04
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 42  | 
+| HOST | 41  | 
 | HOST-KEYWORD | 4  | 
-| HOST-SUFFIX | 680  | 
+| HOST-SUFFIX | 657  | 
 | USER-AGENT | 3  | 
-| TOTAL | 729  | 
+| TOTAL | 705  | 
 
 
 ## QuantumultX 
@@ -61,6 +61,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 | ---- | ---- | ----  |
 | MicrosoftEdge | OneDrive | Teams  | 
 
+
+当前分流规则，已排除以下规则：
+| 排除规则  | 
+| ----  |
+| GitHub  | 
 
 ## 数据来源
 

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:42:29
+# UPDATED: 2023-02-17 02:07:05
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 15589
+# DOMAIN: 15591
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 81968
+# DOMAIN-SUFFIX: 82010
 # IP-CIDR: 238
 # URL-REGEX: 285
-# TOTAL: 98157
+# TOTAL: 98201
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -5765,6 +5765,7 @@ haviouslyshoutesce.info
 hb-t5u9.raps.ravm.tv
 hb.mynativeplatform.com
 hbfls.vip
+hbftgh.ibjkqnhjwd.xyz
 hbhcilgdqxt.com
 hbhfslicqq.com
 hbhgheovqz.com
@@ -5922,6 +5923,7 @@ hnj.m.xywxs.com
 hnlsyandeos.com
 hnnp4ixxkl.com
 hnrfwtlvlnzumb.com
+hnrtg.iujkegbpo.xyz
 hnsamgkrtliye.com
 hnskorea.co.kr
 hntntnfizowo.com
@@ -7199,7 +7201,9 @@ kmafwyzccd.com
 kmalnsqvyygwe.com
 kmbbqmrnso.com
 kmdqyjebswoa.com
+kmef.ikjwmfeds.xyz
 kmmtxuxow.com
+kmopoer.jkbuymjhp.xyz
 kmpcmafvqf.com
 kmpxgnnoom.com
 kmrnnqjfjjp.com
@@ -9681,7 +9685,6 @@ pay.t7k.space
 pay.tx1799.com
 pay.youzu.com
 payment.yodo1api.com
-paypalobjects.com
 pb-webdesign.net
 pb.hd.sohu.com.cn
 pbfjqmwjmuxywt.com
@@ -14336,7 +14339,6 @@ www.p1.3b82.com
 www.p2343.com
 www.panazan.ro
 www.papapa.tv
-www.paypalobjects.com
 www.pcstore.com.tw
 www.perfect-dating.com
 www.perfectgirls.es
@@ -16342,6 +16344,7 @@ zzxosget.com
 .1990tu.com
 .1999019.com
 .1999sg.com
+.199aaa.us
 .19bk5lo5q2.com
 .1a715b8q5m3j.www.logology.co
 .1aa3097b7b.com
@@ -16827,6 +16830,7 @@ zzxosget.com
 .2gwzdkjrtb.ru
 .2h6skj2da.de
 .2heaoc.com
+.2hfby.top
 .2hisnd.com
 .2hqd0b.cn
 .2htg.com
@@ -17642,6 +17646,7 @@ zzxosget.com
 .551vip.xyz
 .5534edee5a.com
 .5535aibo.com
+.553aaa.us
 .5551556.com
 .5555nt.com
 .555b2b.com
@@ -17918,6 +17923,7 @@ zzxosget.com
 .6598kn9gpf.ru
 .65fsgsv.com
 .65mjvw6i1z.com
+.65oml.cn
 .65tgh.com
 .65vk1fba34.com
 .6604.org
@@ -18978,6 +18984,7 @@ zzxosget.com
 .a-counter.com.ua
 .a-counter.kiev.ua
 .a-counters.com
+.a-delivery.rmbl.ws
 .a-dxk.play.api.3g.youku.com
 .a-i-ad.com
 .a-m-s.poco.cn
@@ -27009,6 +27016,7 @@ zzxosget.com
 .apel3.fr
 .apeng.club
 .apenterprise.io
+.aperchwagered.com
 .aperushmo.cam
 .apester.com
 .apetite.index.hr
@@ -29359,6 +29367,7 @@ zzxosget.com
 .banner.hpmdnetwork.ru
 .banner.inyourpocket.com
 .banner.itweb.co.za
+.banner.kaktus.media
 .banner.kanald.com.tr
 .banner.lbs.km.ru
 .banner.linux.se
@@ -29999,6 +30008,7 @@ zzxosget.com
 .beacon.thred.woven.com
 .beacon.toyota.co.jp
 .beacon.tws.toyota.jp
+.beacon.unext.jp
 .beacon.vertebrae-axis.com
 .beacon.viewlift.com
 .beacon.walmart.ca
@@ -31632,6 +31642,7 @@ zzxosget.com
 .bot-checker.com
 .botdetection.hbrsd.com
 .botdetector.ru
+.bothererune.com
 .botize.com
 .botkano.info
 .botman.ninja
@@ -37069,6 +37080,7 @@ zzxosget.com
 .criantsleck.com
 .cribut.com
 .cricketunbutton.com
+.crific.com
 .crimentasaju.site
 .criminglynuk.pro
 .crisdomson.com
@@ -41477,6 +41489,7 @@ zzxosget.com
 .dualeotruyen.net
 .dualizefriskin.com
 .dualmarket.info
+.dualstack-logs.amap.com
 .duamilsyr.com
 .duanat.com
 .duanepearls.com
@@ -41765,6 +41778,7 @@ zzxosget.com
 .dz2017.zdzxyplyt.com
 .dz4ad.com
 .dz5bomaog2c5t.cloudfront.net
+.dz6uw9vrm7nx6.cloudfront.net
 .dzais.com
 .dzdkw9.cn
 .dzforp.buscape.com.br
@@ -42158,6 +42172,7 @@ zzxosget.com
 .easyads29.info
 .easyads29.mobi
 .easyads29.pro
+.easycompute.systems
 .easycounter.com
 .easydating.top
 .easyfeeed.com
@@ -43561,6 +43576,7 @@ zzxosget.com
 .erniphiq.com
 .ernoddenkn.pics
 .ernrscvob.com
+.ernshawing.com
 .ero2you.com
 .erobot-pisicne.fr
 .erocw.com
@@ -46462,6 +46478,7 @@ zzxosget.com
 .funn.graphiq.com
 .funnelchair.com
 .funneld.com
+.funnelserv.systems
 .funnelytics.io
 .funnyairplane.com
 .funnyreign.com
@@ -50125,6 +50142,7 @@ zzxosget.com
 .hghit.com
 .hghm4u7b61.com
 .hgibbei.cyou
+.hgijycxp.com
 .hgo7r.cn
 .hgofcd.com
 .hgrqp.com
@@ -50612,6 +50630,7 @@ zzxosget.com
 .hoanaijo.com
 .hoanoola.net
 .hoareddepulse.com
+.hoaredsavates.com
 .hoarseairy.com
 .hoazinangles.com
 .hobfadbig.com
@@ -51002,6 +51021,7 @@ zzxosget.com
 .hsiaik.com
 .hskj.net
 .hskj88.cn
+.hskzoab.cn
 .hsleadflows.net
 .hslyqs.com
 .hsmkj.net
@@ -52004,6 +52024,7 @@ zzxosget.com
 .ijuny.com
 .ijvzmua.cn
 .ijwfyirxx.xyz
+.ikahnruntx.com
 .ikajeoes.com
 .ikbgika.cn
 .ikbhgj.cn
@@ -53276,6 +53297,7 @@ zzxosget.com
 .iogous.com
 .ioheiy.com
 .iojgo.com
+.iokenattharmiinl.xyz
 .iokhsx.unionmonthly.jp
 .iol.io
 .ioladv.it
@@ -53398,6 +53420,7 @@ zzxosget.com
 .ipurl.ru
 .ipv6monitoring.eu
 .ipxjps.cn
+.ipyud.cn
 .iq.sixaxisllc.com
 .iq001.adtech.fr
 .iq001.adtech.us
@@ -54514,6 +54537,7 @@ zzxosget.com
 .jkmxy.com
 .jknarp.kakaku.com
 .jknmsdpo.xyz
+.jknmthwd.xyz
 .jksdcwgjfm.xyz
 .jktopia.com
 .jkttvpoxmk.com
@@ -57472,6 +57496,7 @@ zzxosget.com
 .lgtdkpfnor.com
 .lgugsnp.cn
 .lguir.com
+.lgxm.cool
 .lgxoyjjdunlwrhp.xyz
 .lgyxxxlcsgwgfg.xyz
 .lgzkzp.bauhaus.at
@@ -58415,6 +58440,7 @@ zzxosget.com
 .log-vietnamplus-vn.cdn.ampproject.org
 .log-yex.youdao.com
 .log.51cto.com
+.log.affiliate.rakuten.co.jp
 .log.ajunews.com
 .log.aliyuncs.com
 .log.anninhthudo.vn
@@ -59581,6 +59607,7 @@ zzxosget.com
 .m62rtkpf.de
 .m652a.cn
 .m6c4t9vmqarj.www.cefirates.com
+.m6ku1.cn
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 .m6r.eu
 .m72r.cn
@@ -60635,6 +60662,7 @@ zzxosget.com
 .mazuma.ru
 .mb-npltfpro.com
 .mb-srv.com
+.mb-tracking.com
 .mb.5.p2l.info
 .mb.gulongbbs.com
 .mb.hockeybuzz.com
@@ -61967,6 +61995,7 @@ zzxosget.com
 .mibook-10006092.cos.myqcloud.com
 .mibsooks.net
 .micakidaugust.com
+.micfu.cyou
 .micghiga2n7ahjnnsar0fbor.com
 .michaelianice.com
 .michealmoyite.com
@@ -64478,6 +64507,7 @@ zzxosget.com
 .newpush.support
 .newrelic.com
 .newreven.com
+.newrevive.detik.com
 .newrrb.bid
 .news-37876-mshome.com
 .news-389767-mshome.com
@@ -65009,6 +65039,7 @@ zzxosget.com
 .no9pldds1lmn3.soundcloud.com
 .noa0.compteczam.fr
 .noagloot.net
+.noahilum.net
 .noahos.cn
 .noaloheb.com
 .noamiagainst.pro
@@ -65284,6 +65315,7 @@ zzxosget.com
 .nqdkogkidygyrf.com
 .nqfwx.cn
 .nqgmcp.chairish.com
+.nqhqpq.cn
 .nqn7la7.de
 .nqnggnsc.fun
 .nqrkzcd7ixwr.com
@@ -66088,6 +66120,7 @@ zzxosget.com
 .offshp.ru
 .offsigilyphor.com
 .offspringperform.net
+.offvmuf.com
 .ofghaidarium.xyz
 .ofgogoatan.com
 .ofgysy.xyz
@@ -67784,6 +67817,7 @@ zzxosget.com
 .palama2.com
 .palandan.com
 .palasidesdoor.com
+.palaverpageboy.com
 .paleleaf.com
 .paleseyi.ru
 .paletteadulatory.com
@@ -68913,6 +68947,7 @@ zzxosget.com
 .pics.taobaocdn.com
 .pics.xgo-img.com.cn
 .pics99.cumlouder.com
+.picscity.info
 .picsinfog.com
 .picsofdream.today
 .picsservices.info
@@ -71235,6 +71270,7 @@ zzxosget.com
 .purrbackground.com
 .purryowl.com
 .pursedistraught.com
+.pursualstums.com
 .pursuedfourteenth.com
 .pursuingconjunction.com
 .pursuitnauseousinvalid.com
@@ -73123,6 +73159,7 @@ zzxosget.com
 .reevaipi.com
 .reevedcats.com
 .reevoo.com
+.reevoopt.com
 .reewituhinlar.com
 .reeyzk.momq.co.kr
 .ref.dealerinspire.com
@@ -75125,6 +75162,7 @@ zzxosget.com
 .s5.charliehebdo.fr
 .s5network1.com
 .s5qj82thv3dw.de
+.s65m.win
 .s6mf2ru8h1.ru
 .s6w.de
 .s7clean.com
@@ -80266,6 +80304,7 @@ zzxosget.com
 .spreadlink.net
 .spreau.com
 .sprettyruckus.com
+.sprigsrecon.com
 .spring-tns.net
 .spring.de
 .springaftermath.com
@@ -80692,6 +80731,7 @@ zzxosget.com
 .stainspun.com
 .stairtuy.com
 .staitchu.com
+.staithecrinion.com
 .staixemo.com
 .staixooh.com
 .stakenpolise.site
@@ -84169,6 +84209,7 @@ zzxosget.com
 .tennubifaces.com
 .tenoad.com
 .tenping.kr
+.tensagesic.com
 .tensorsbancos.com
 .tentaculos.net
 .tentdinationgab.info
@@ -90131,6 +90172,7 @@ zzxosget.com
 .vegent.cn
 .vehead.com
 .vehese.com
+.vehine.com
 .veickea.cn
 .veih8bee.xhcdn.com
 .veille-referencement.com
@@ -91683,6 +91725,7 @@ zzxosget.com
 .wct.click
 .wct.link
 .wctcudh.cn
+.wcyapvikap.com
 .wd.adcolony.xyz
 .wda.ydt.com.cn
 .wdad.cc
@@ -95163,6 +95206,7 @@ zzxosget.com
 .xyhx.org
 .xyimg.net
 .xylansudra.cam
+.xylaoppress.com
 .xyleticfrette.com
 .xylkpj.xyz
 .xylmdm.top

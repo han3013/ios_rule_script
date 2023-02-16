@@ -1,12 +1,12 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:43:29
-# HOST: 42
+# UPDATED: 2023-02-17 02:08:04
+# HOST: 41
 # HOST-KEYWORD: 4
-# HOST-SUFFIX: 680
+# HOST-SUFFIX: 657
 # USER-AGENT: 3
-# TOTAL: 729
+# TOTAL: 705
 HOST,bg.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bg4.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bj1.api.bing.com,Microsoft
@@ -20,7 +20,6 @@ HOST,download.microsoft.com,Microsoft
 HOST,download.visualstudio.microsoft.com,Microsoft
 HOST,emoi-cncdn.bing.com,Microsoft
 HOST,fs.microsoft.com,Microsoft
-HOST,github-cloud.s3.amazonaws.com,Microsoft
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,Microsoft
 HOST,img-s-msn-com.akamaized.net,Microsoft
 HOST,msgr.dlservice.microsoft.com,Microsoft
@@ -77,7 +76,6 @@ HOST-SUFFIX,aria.ms,Microsoft
 HOST-SUFFIX,asp.net,Microsoft
 HOST-SUFFIX,aspnetcdn.com,Microsoft
 HOST-SUFFIX,assets-yammer.com,Microsoft
-HOST-SUFFIX,atom.io,Microsoft
 HOST-SUFFIX,azcrmc-test.cn,Microsoft
 HOST-SUFFIX,azcrmc.cn,Microsoft
 HOST-SUFFIX,azk8s.cn,Microsoft
@@ -212,7 +210,6 @@ HOST-SUFFIX,crmdynint.com,Microsoft
 HOST-SUFFIX,crossborderexpansion.com,Microsoft
 HOST-SUFFIX,cs11.wpc.v0cdn.net,Microsoft
 HOST-SUFFIX,cs9.wac.phicdn.net,Microsoft
-HOST-SUFFIX,dependabot.com,Microsoft
 HOST-SUFFIX,devopsassessment.net,Microsoft
 HOST-SUFFIX,devopsms.com,Microsoft
 HOST-SUFFIX,dictate.ms,Microsoft
@@ -249,21 +246,7 @@ HOST-SUFFIX,gearspop.com,Microsoft
 HOST-SUFFIX,gearstactics.com,Microsoft
 HOST-SUFFIX,getmicrosoftkey.com,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
-HOST-SUFFIX,ghcr.io,Microsoft
 HOST-SUFFIX,gigjam.com,Microsoft
-HOST-SUFFIX,git.io,Microsoft
-HOST-SUFFIX,github.blog,Microsoft
-HOST-SUFFIX,github.com,Microsoft
-HOST-SUFFIX,github.community,Microsoft
-HOST-SUFFIX,github.dev,Microsoft
-HOST-SUFFIX,github.io,Microsoft
-HOST-SUFFIX,githubapp.com,Microsoft
-HOST-SUFFIX,githubassets.com,Microsoft
-HOST-SUFFIX,githubhackathon.com,Microsoft
-HOST-SUFFIX,githubpreview.dev,Microsoft
-HOST-SUFFIX,githubstatus.com,Microsoft
-HOST-SUFFIX,githubuniverse.com,Microsoft
-HOST-SUFFIX,githubusercontent.com,Microsoft
 HOST-SUFFIX,gotcosmos.com,Microsoft
 HOST-SUFFIX,graphengine.io,Microsoft
 HOST-SUFFIX,groupme.com,Microsoft
@@ -529,11 +512,7 @@ HOST-SUFFIX,msxiaona.cn,Microsoft
 HOST-SUFFIX,mwf-service.akamaized.net,Microsoft
 HOST-SUFFIX,myhomemsn.com,Microsoft
 HOST-SUFFIX,mymicrosoft.com,Microsoft
-HOST-SUFFIX,myoctocat.com,Microsoft
 HOST-SUFFIX,nextechafrica.net,Microsoft
-HOST-SUFFIX,npm.community,Microsoft
-HOST-SUFFIX,npmjs.com,Microsoft
-HOST-SUFFIX,npmjs.org,Microsoft
 HOST-SUFFIX,nuget.org,Microsoft
 HOST-SUFFIX,nugettest.org,Microsoft
 HOST-SUFFIX,nxta.org,Microsoft
@@ -563,7 +542,6 @@ HOST-SUFFIX,onenote.net,Microsoft
 HOST-SUFFIX,onestore.ms,Microsoft
 HOST-SUFFIX,onmicrosoft.com,Microsoft
 HOST-SUFFIX,onmschina.cn,Microsoft
-HOST-SUFFIX,opensource.guide,Microsoft
 HOST-SUFFIX,opentranslatorstothings.org,Microsoft
 HOST-SUFFIX,opticsforthecloud.net,Microsoft
 HOST-SUFFIX,optimizely.com,Microsoft
@@ -600,7 +578,6 @@ HOST-SUFFIX,reactorms.com.cn,Microsoft
 HOST-SUFFIX,renlifang.com,Microsoft
 HOST-SUFFIX,renovacionoffice.com,Microsoft
 HOST-SUFFIX,renovacionxboxlive.com,Microsoft
-HOST-SUFFIX,repo.new,Microsoft
 HOST-SUFFIX,s-microsoft.com,Microsoft
 HOST-SUFFIX,s-msedge.net,Microsoft
 HOST-SUFFIX,s-msft.com,Microsoft
@@ -639,7 +616,6 @@ HOST-SUFFIX,techhub.ms,Microsoft
 HOST-SUFFIX,tellmewhygame.com,Microsoft
 HOST-SUFFIX,tenor.com,Microsoft
 HOST-SUFFIX,tfsallin.net,Microsoft
-HOST-SUFFIX,thegithubshop.com,Microsoft
 HOST-SUFFIX,timelinestoryteller.com,Microsoft
 HOST-SUFFIX,trafficmanager.cn,Microsoft
 HOST-SUFFIX,trafficmanager.net,Microsoft

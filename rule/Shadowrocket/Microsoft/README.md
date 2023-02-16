@@ -12,16 +12,16 @@ Microsoft规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-02-15 23:43:28
+最后更新时间：2023-02-17 02:08:04
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 2  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 680  | 
+| DOMAIN-SUFFIX | 657  | 
 | USER-AGENT | 3  | 
-| TOTAL | 689  | 
+| TOTAL | 666  | 
 
 
 ## Shadowrocket 
@@ -64,6 +64,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 | ---- | ---- | ----  |
 | MicrosoftEdge | OneDrive | Teams  | 
 
+
+当前分流规则，已排除以下规则：
+| 排除规则  | 
+| ----  |
+| GitHub  | 
 
 ## 数据来源
 
