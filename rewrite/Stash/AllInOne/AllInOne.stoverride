@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2023-02-15 23:48:00
+desc: 最后更新时间 2023-02-18 02:13:05
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 32
 # redirect: 8
-# reject: 508
-# mitm: 564
+# reject: 507
+# mitm: 563
 # force-http-engine-hosts: 6
-# total: 1124
+# total: 1122
 
 
 
@@ -472,7 +472,6 @@ http:
     - ^https?:\/\/track\.mm\.taou\.com/v\d\/track - reject
     - ^https?:\/\/tracker-download\.oss-cn-beijing\.aliyuncs\.com\/SIMPlus\/(ad_|AD\/) - reject
     - ^https?:\/\/u\d\.iqiyipic\.com\/image\/[\w\/]+\/oad_ - reject
-    - ^https?:\/\/uapi\.huolala\.cn\/\?_m=open.*?advertising - reject
     - ^https?:\/\/us\.l\.qq\.com\/exapp\?spsa=\d - reject
     - ^https?:\/\/v\.cctv\.com\/.+?850 - reject
     - ^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/ - reject
@@ -1237,7 +1236,6 @@ http:
     - "track.mm.taou.com"
     - "tracker-download.oss-cn-beijing.aliyuncs.com"
     - "u*.iqiyipic.com"
-    - "uapi.huolala.cn"
     - "us.l.qq.com"
     - "v*-api.miaopai.com"
     - "v.cctv.com"
