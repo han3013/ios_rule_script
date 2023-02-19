@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-18 02:10:30
+# UPDATED: 2023-02-20 02:14:19
 # HOST: 174
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 65708
@@ -2281,6 +2281,7 @@ HOST-SUFFIX,lizhi.fm,ChinaTest
 HOST-SUFFIX,lizhi.io,ChinaTest
 HOST-SUFFIX,lizhifm.com,ChinaTest
 HOST-SUFFIX,ljcdn.com,ChinaTest
+HOST-SUFFIX,lkcoffee.com,ChinaTest
 HOST-SUFFIX,lkkbrand.com,ChinaTest
 HOST-SUFFIX,llsapp.com,ChinaTest
 HOST-SUFFIX,llscdn.com,ChinaTest
@@ -2302,6 +2303,7 @@ HOST-SUFFIX,lrts.me,ChinaTest
 HOST-SUFFIX,lsplayer.com,ChinaTest
 HOST-SUFFIX,lu.com,ChinaTest
 HOST-SUFFIX,lucifr.com,ChinaTest
+HOST-SUFFIX,luckincoffeecdn.com,ChinaTest
 HOST-SUFFIX,luckyair.net,ChinaTest
 HOST-SUFFIX,ludashi.com,ChinaTest
 HOST-SUFFIX,ludoworld.net,ChinaTest
@@ -3637,6 +3639,7 @@ HOST-SUFFIX,yxhhdl.com,ChinaTest
 HOST-SUFFIX,yximgs.com,ChinaTest
 HOST-SUFFIX,yxwsgame.com,ChinaTest
 HOST-SUFFIX,yy.com,ChinaTest
+HOST-SUFFIX,yyds.co,ChinaTest
 HOST-SUFFIX,yystatic.com,ChinaTest
 HOST-SUFFIX,yytcdn.com,ChinaTest
 HOST-SUFFIX,yzyxgame.com,ChinaTest
@@ -38255,7 +38258,6 @@ HOST-SUFFIX,ljzfin.com,ChinaTest
 HOST-SUFFIX,lk361.com,ChinaTest
 HOST-SUFFIX,lkcash.com,ChinaTest
 HOST-SUFFIX,lkcgyl.com,ChinaTest
-HOST-SUFFIX,lkcoffee.com,ChinaTest
 HOST-SUFFIX,lkcsgo.com,ChinaTest
 HOST-SUFFIX,lkgame.com,ChinaTest
 HOST-SUFFIX,lkgshq.com,ChinaTest
@@ -38789,7 +38791,6 @@ HOST-SUFFIX,luciaz.me,ChinaTest
 HOST-SUFFIX,luckeeinc.com,ChinaTest
 HOST-SUFFIX,luckincoffee.co,ChinaTest
 HOST-SUFFIX,luckincoffee.com,ChinaTest
-HOST-SUFFIX,luckincoffeecdn.com,ChinaTest
 HOST-SUFFIX,lucklnk.com,ChinaTest
 HOST-SUFFIX,lucky286.com,ChinaTest
 HOST-SUFFIX,luckycoffee.com,ChinaTest
@@ -63127,7 +63128,6 @@ HOST-SUFFIX,yydatas.com,ChinaTest
 HOST-SUFFIX,yydbzz.com,ChinaTest
 HOST-SUFFIX,yydcs.com,ChinaTest
 HOST-SUFFIX,yydidai.com,ChinaTest
-HOST-SUFFIX,yyds.co,ChinaTest
 HOST-SUFFIX,yydzh.com,ChinaTest
 HOST-SUFFIX,yyearth.com,ChinaTest
 HOST-SUFFIX,yyedufeb.com,ChinaTest

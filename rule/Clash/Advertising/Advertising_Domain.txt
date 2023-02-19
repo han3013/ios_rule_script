@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-19 16:22:03
+# UPDATED: 2023-02-20 02:07:15
 # DOMAIN: 15591
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 82209
+# DOMAIN-SUFFIX: 82208
 # IP-CIDR: 238
-# TOTAL: 98114
+# TOTAL: 98113
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.35
@@ -69844,7 +69844,6 @@ opencloud.wostore.cn
 .yan.zhouguanchen.com
 .yan07.xyz
 .yanabmw.ru
-.yandex.ru
 .yandexbrowser2019.ru
 .yang123.ltd
 .yang17.xyz

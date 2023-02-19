@@ -1,13 +1,13 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:46:46
+# UPDATED: 2023-02-20 02:15:58
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3507
+# DOMAIN-SUFFIX: 3510
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 3548
+# TOTAL: 3551
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -2097,6 +2097,7 @@ DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lizhifm.com
 DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lkkbrand.com
 DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
@@ -2118,6 +2119,7 @@ DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lu.com
 DOMAIN-SUFFIX,lucifr.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,ludoworld.net
@@ -3443,6 +3445,7 @@ DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yytcdn.com
 DOMAIN-SUFFIX,yzyxgame.com

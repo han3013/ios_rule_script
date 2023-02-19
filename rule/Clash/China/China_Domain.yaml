@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:45:38
+# UPDATED: 2023-02-20 02:14:14
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3588
+# DOMAIN-SUFFIX: 3591
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 3629
+# TOTAL: 3632
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -2151,6 +2151,7 @@ payload:
   - '+.lizhi.io'
   - '+.lizhifm.com'
   - '+.ljcdn.com'
+  - '+.lkcoffee.com'
   - '+.lkkbrand.com'
   - '+.llsapp.com'
   - '+.llscdn.com'
@@ -2172,6 +2173,7 @@ payload:
   - '+.lsplayer.com'
   - '+.lu.com'
   - '+.lucifr.com'
+  - '+.luckincoffeecdn.com'
   - '+.luckyair.net'
   - '+.ludashi.com'
   - '+.ludoworld.net'
@@ -3519,6 +3521,7 @@ payload:
   - '+.yximgs.com'
   - '+.yxwsgame.com'
   - '+.yy.com'
+  - '+.yyds.co'
   - '+.yystatic.com'
   - '+.yytcdn.com'
   - '+.yzyxgame.com'

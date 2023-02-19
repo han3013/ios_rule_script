@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-19 16:22:51
+# UPDATED: 2023-02-20 02:08:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 11506
+# DOMAIN: 11517
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 105406
+# DOMAIN-SUFFIX: 105405
 # IP-CIDR: 241
 # URL-REGEX: 285
-# TOTAL: 117702
+# TOTAL: 117712
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -97,6 +97,7 @@
 136.0.56.196
 1360.cn
 1360.com.cn
+1368999.com
 137.175.69.92
 13895df59d98cc.com
 139.129.220.86
@@ -748,6 +749,8 @@ adenabler.com
 adezrvjcbyu.com
 adfile.hori-gz.com
 adfoitjumerzge.com
+adfox.yandex.ru
+adfstat.yandex.ru
 adfux.com
 adgeiros.pw
 adgoi.mobi
@@ -797,6 +800,7 @@ ads.youtube.com
 ads3-normal-lq.zijieapi.com
 ads5-normal-lq.zijieapi.com
 adsbr.info
+adsdk.yandex.ru
 adservhere.com
 adserving.favorit-network.com
 adsexpert.net
@@ -1027,6 +1031,7 @@ amrfscxvdvfvpa.com
 amrnhiqy.com
 amxdt.com
 amxodxmsuwdhn.com
+an.yandex.ru
 anastasiadate.com
 anbalxkcpwa.com
 anbiarfehxyz.com
@@ -1229,6 +1234,7 @@ avppet.com
 avyrpwvm.com
 awakebottlestudy.com
 awaps.net
+awaps.yandex.ru
 awcpmsaiv.com
 awgsmfzrslcp.com
 awjyickdugj.com
@@ -1237,6 +1243,7 @@ awnyohgtmb.com
 awpxjguq.com
 awrnrkmwtia.com
 aws-ajax.com
+awsync.yandex.ru
 awzdbycpiwncrp.com
 ax47mp-xp-21.com
 axadaldlozmqu.com
@@ -1635,6 +1642,7 @@ brrqeprqsrvrt.com
 bruceleadx3.com
 bruceleadx4.com
 bryvvdtek.com
+bs.yandex.ru
 bscy05.cn
 bsfnvvxjcisif.com
 bsgimhqko.com
@@ -4448,6 +4456,7 @@ indlzxgptf.com
 inentasky.com
 inewcontentdelivery.info
 info4.a7.org
+informer.yandex.ru
 infoweb-coolinfo.tk
 infra-ad.com
 inityhntee.com
@@ -5473,6 +5482,7 @@ log-gateway.zoom.us
 log.kukuplay.com
 log.kuwo.cn
 log.rabobank.nl
+log.strm.yandex.ru
 logfrochi.site
 logger.su
 lohappbnrpgypu.com
@@ -5709,6 +5719,7 @@ mbmwfufkaxll.com
 mbpjpmcz.com
 mbpmfrx.com
 mbsivmsbuteaz.com
+mc.yandex.ru
 mcdstorage.com
 mcgndenytmy.com
 mchpowtyj.com
@@ -114208,7 +114219,6 @@ zzxosget.com
 .yanabmw.ru
 .yanbenji.cn
 .yancy.fun
-.yandex.ru
 .yandexadexchange.net
 .yandexbrowser2019.ru
 .yandui.com

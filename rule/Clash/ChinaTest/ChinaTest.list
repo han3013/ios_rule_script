@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-18 02:10:31
+# UPDATED: 2023-02-20 02:14:20
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65708
@@ -2280,6 +2280,7 @@ DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lizhifm.com
 DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lkkbrand.com
 DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
@@ -2301,6 +2302,7 @@ DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lu.com
 DOMAIN-SUFFIX,lucifr.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,ludoworld.net
@@ -3636,6 +3638,7 @@ DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yytcdn.com
 DOMAIN-SUFFIX,yzyxgame.com
@@ -38254,7 +38257,6 @@ DOMAIN-SUFFIX,ljzfin.com
 DOMAIN-SUFFIX,lk361.com
 DOMAIN-SUFFIX,lkcash.com
 DOMAIN-SUFFIX,lkcgyl.com
-DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lkcsgo.com
 DOMAIN-SUFFIX,lkgame.com
 DOMAIN-SUFFIX,lkgshq.com
@@ -38788,7 +38790,6 @@ DOMAIN-SUFFIX,luciaz.me
 DOMAIN-SUFFIX,luckeeinc.com
 DOMAIN-SUFFIX,luckincoffee.co
 DOMAIN-SUFFIX,luckincoffee.com
-DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,lucklnk.com
 DOMAIN-SUFFIX,lucky286.com
 DOMAIN-SUFFIX,luckycoffee.com
@@ -63126,7 +63127,6 @@ DOMAIN-SUFFIX,yydatas.com
 DOMAIN-SUFFIX,yydbzz.com
 DOMAIN-SUFFIX,yydcs.com
 DOMAIN-SUFFIX,yydidai.com
-DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,yydzh.com
 DOMAIN-SUFFIX,yyearth.com
 DOMAIN-SUFFIX,yyedufeb.com

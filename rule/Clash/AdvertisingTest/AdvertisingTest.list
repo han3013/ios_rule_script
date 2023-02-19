@@ -1,12 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-19 16:22:53
-# DOMAIN: 11506
+# UPDATED: 2023-02-20 02:08:02
+# DOMAIN: 11517
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 105406
+# DOMAIN-SUFFIX: 105405
 # IP-CIDR: 241
-# TOTAL: 117417
+# TOTAL: 117427
+DOMAIN,1368999.com
 DOMAIN,3p-geo.yahoo.com
 DOMAIN,3p-udc.yahoo.com
 DOMAIN,46186911.vtt
@@ -14,10 +15,14 @@ DOMAIN,6888i.top
 DOMAIN,80055404.vtt
 DOMAIN,aab-proxy.tld
 DOMAIN,absurdapple.com
+DOMAIN,adfox.yandex.ru
+DOMAIN,adfstat.yandex.ru
 DOMAIN,ads.yahoo.com
 DOMAIN,ads.youtube.com
+DOMAIN,adsdk.yandex.ru
 DOMAIN,aifwjekfe.xyz
 DOMAIN,ajfkwwpo.xyz
+DOMAIN,an.yandex.ru
 DOMAIN,anxiousapples.com
 DOMAIN,api.sec.miui.com
 DOMAIN,app.ssp.yahoo.com
@@ -25,11 +30,14 @@ DOMAIN,appboy-images.com
 DOMAIN,apple.www.letv.com
 DOMAIN,applesometimes.com
 DOMAIN,applets.ebxcdn.com
+DOMAIN,awaps.yandex.ru
+DOMAIN,awsync.yandex.ru
 DOMAIN,bats.video.yahoo.com
 DOMAIN,beacon.search.yahoo.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,blueduckredapple.com
 DOMAIN,bridalplums.com
+DOMAIN,bs.yandex.ru
 DOMAIN,cifzuqopdpzi.com
 DOMAIN,collector2c.zhihuishu.com
 DOMAIN,cookiex.ngd.yahoo.com
@@ -45,9 +53,12 @@ DOMAIN,iadsdk.apple.com
 DOMAIN,ib.snssdk.com
 DOMAIN,ibjkafefertt.xyz
 DOMAIN,icentos.info
+DOMAIN,informer.yandex.ru
 DOMAIN,jill.fc.yahoo.com
 DOMAIN,jpaasne.e.shifen.com
+DOMAIN,log.strm.yandex.ru
 DOMAIN,marketingsolutions.yahoo.com
+DOMAIN,mc.yandex.ru
 DOMAIN,mediaappletree.com
 DOMAIN,meitaolianmeng.ltd
 DOMAIN,mm.n3w1d0ma1n
@@ -64745,7 +64756,6 @@ DOMAIN-SUFFIX,yamstamp.com
 DOMAIN-SUFFIX,yan.zhouguanchen.com
 DOMAIN-SUFFIX,yan07.xyz
 DOMAIN-SUFFIX,yanabmw.ru
-DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandexbrowser2019.ru
 DOMAIN-SUFFIX,yang123.ltd
 DOMAIN-SUFFIX,yang17.xyz

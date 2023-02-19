@@ -1,12 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-19 16:22:53
-# DOMAIN: 11506
+# UPDATED: 2023-02-20 02:08:03
+# DOMAIN: 11517
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 105406
+# DOMAIN-SUFFIX: 105405
 # IP-CIDR: 241
-# TOTAL: 117417
+# TOTAL: 117427
+1368999.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
@@ -14,10 +15,14 @@
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
+adfox.yandex.ru
+adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+adsdk.yandex.ru
 aifwjekfe.xyz
 ajfkwwpo.xyz
+an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
@@ -25,11 +30,14 @@ appboy-images.com
 apple.www.letv.com
 applesometimes.com
 applets.ebxcdn.com
+awaps.yandex.ru
+awsync.yandex.ru
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
 bridalplums.com
+bs.yandex.ru
 cifzuqopdpzi.com
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
@@ -45,9 +53,12 @@ iadsdk.apple.com
 ib.snssdk.com
 ibjkafefertt.xyz
 icentos.info
+informer.yandex.ru
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
+log.strm.yandex.ru
 marketingsolutions.yahoo.com
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
@@ -64745,7 +64756,6 @@ txrx.bol.com
 .yan.zhouguanchen.com
 .yan07.xyz
 .yanabmw.ru
-.yandex.ru
 .yandexbrowser2019.ru
 .yang123.ltd
 .yang17.xyz

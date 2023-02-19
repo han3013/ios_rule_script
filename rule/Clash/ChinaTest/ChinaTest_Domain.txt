@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-18 02:10:31
+# UPDATED: 2023-02-20 02:14:20
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65708
@@ -2280,6 +2280,7 @@ xn--flw351e.com
 .lizhi.io
 .lizhifm.com
 .ljcdn.com
+.lkcoffee.com
 .lkkbrand.com
 .llsapp.com
 .llscdn.com
@@ -2301,6 +2302,7 @@ xn--flw351e.com
 .lsplayer.com
 .lu.com
 .lucifr.com
+.luckincoffeecdn.com
 .luckyair.net
 .ludashi.com
 .ludoworld.net
@@ -3636,6 +3638,7 @@ xn--flw351e.com
 .yximgs.com
 .yxwsgame.com
 .yy.com
+.yyds.co
 .yystatic.com
 .yytcdn.com
 .yzyxgame.com
@@ -38254,7 +38257,6 @@ xn--flw351e.com
 .lk361.com
 .lkcash.com
 .lkcgyl.com
-.lkcoffee.com
 .lkcsgo.com
 .lkgame.com
 .lkgshq.com
@@ -38788,7 +38790,6 @@ xn--flw351e.com
 .luckeeinc.com
 .luckincoffee.co
 .luckincoffee.com
-.luckincoffeecdn.com
 .lucklnk.com
 .lucky286.com
 .luckycoffee.com
@@ -63126,7 +63127,6 @@ xn--flw351e.com
 .yydbzz.com
 .yydcs.com
 .yydidai.com
-.yyds.co
 .yydzh.com
 .yyearth.com
 .yyedufeb.com

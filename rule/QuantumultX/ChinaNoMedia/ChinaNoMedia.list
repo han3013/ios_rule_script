@@ -1,14 +1,14 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:46:46
+# UPDATED: 2023-02-20 02:15:58
 # HOST: 18
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3507
+# HOST-SUFFIX: 3510
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3579
+# TOTAL: 3582
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
@@ -2098,6 +2098,7 @@ HOST-SUFFIX,lizhi.fm,ChinaNoMedia
 HOST-SUFFIX,lizhi.io,ChinaNoMedia
 HOST-SUFFIX,lizhifm.com,ChinaNoMedia
 HOST-SUFFIX,ljcdn.com,ChinaNoMedia
+HOST-SUFFIX,lkcoffee.com,ChinaNoMedia
 HOST-SUFFIX,lkkbrand.com,ChinaNoMedia
 HOST-SUFFIX,llsapp.com,ChinaNoMedia
 HOST-SUFFIX,llscdn.com,ChinaNoMedia
@@ -2119,6 +2120,7 @@ HOST-SUFFIX,lrts.me,ChinaNoMedia
 HOST-SUFFIX,lsplayer.com,ChinaNoMedia
 HOST-SUFFIX,lu.com,ChinaNoMedia
 HOST-SUFFIX,lucifr.com,ChinaNoMedia
+HOST-SUFFIX,luckincoffeecdn.com,ChinaNoMedia
 HOST-SUFFIX,luckyair.net,ChinaNoMedia
 HOST-SUFFIX,ludashi.com,ChinaNoMedia
 HOST-SUFFIX,ludoworld.net,ChinaNoMedia
@@ -3444,6 +3446,7 @@ HOST-SUFFIX,yxhhdl.com,ChinaNoMedia
 HOST-SUFFIX,yximgs.com,ChinaNoMedia
 HOST-SUFFIX,yxwsgame.com,ChinaNoMedia
 HOST-SUFFIX,yy.com,ChinaNoMedia
+HOST-SUFFIX,yyds.co,ChinaNoMedia
 HOST-SUFFIX,yystatic.com,ChinaNoMedia
 HOST-SUFFIX,yytcdn.com,ChinaNoMedia
 HOST-SUFFIX,yzyxgame.com,ChinaNoMedia

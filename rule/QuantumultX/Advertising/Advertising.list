@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-19 16:22:01
+# UPDATED: 2023-02-20 02:07:14
 # HOST: 15591
 # HOST-KEYWORD: 76
-# HOST-SUFFIX: 82209
+# HOST-SUFFIX: 82208
 # HOST-WILDCARD: 1
 # IP-CIDR: 238
-# TOTAL: 98115
+# TOTAL: 98114
 HOST,03.lzzncm.com,Advertising
 HOST,04.lzzncm.com,Advertising
 HOST,10.10.34.35,Advertising
@@ -69845,7 +69845,6 @@ HOST-SUFFIX,yamstamp.com,Advertising
 HOST-SUFFIX,yan.zhouguanchen.com,Advertising
 HOST-SUFFIX,yan07.xyz,Advertising
 HOST-SUFFIX,yanabmw.ru,Advertising
-HOST-SUFFIX,yandex.ru,Advertising
 HOST-SUFFIX,yandexbrowser2019.ru,Advertising
 HOST-SUFFIX,yang123.ltd,Advertising
 HOST-SUFFIX,yang17.xyz,Advertising
