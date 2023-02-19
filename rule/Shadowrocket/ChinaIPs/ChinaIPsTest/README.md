@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) 
 
 ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -19,14 +19,14 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-02-18 02:11:45
+最后更新时间：2023-02-19 16:32:17
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | IP-ASN | 1217  | 
-| IP-CIDR | 10355  | 
-| TOTAL | 11572  | 
+| IP-CIDR | 18804  | 
+| TOTAL | 20021  | 
 
 
 ## Shadowrocket 
