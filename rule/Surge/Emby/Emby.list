@@ -7,12 +7,11 @@
 # DOMAIN-SUFFIX: 34
 # PROCESS-NAME: 1
 # TOTAL: 39
-DOMAIN-SUFFIX,emby.vip
-DOMAIN-SUFFIX,cu.poloemby.xyz
-DOMAIN-SUFFIX,cf.studyfun.live
-DOMAIN-SUFFIX,embymv.tk
-DOMAIN-SUFFIX,direct.nebula-emby.com
-DOMAIN-SUFFIX,cc.ccembytk
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,cf.embytv.cf
+DOMAIN-KEYWORD,emby.vip
+DOMAIN-KEYWORD,poloemby
+DOMAIN-KEYWORD,studyfun
+DOMAIN-KEYWORD,embymv
+DOMAIN-KEYWORD,nebula-emby
+DOMAIN-KEYWORD,ccemby
+DOMAIN-KEYWORD,embytv
 DOMAIN-KEYWORD,jmsooo
